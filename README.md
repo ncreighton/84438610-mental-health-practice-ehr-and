@@ -1,2 +1,31 @@
-# 84438610-mental-health-practice-ehr-and
-HIPAA-compliant structured Notion workspace for private practice therapists, counselors, and psychiatrists managing client sessions and clinical documentation. Features a client record database with intake form templates, session notes using SOAP and DAP formats, treatment plan tracker with goal progress, appointment schedule with no-show log, bill
+# Mental Health Practice EHR and Session Notes Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm6oHcLl0bW5tueM4cZa1y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm6oHcLl0bW5tueM4cZa1y)
+- [Buy on Gumroad](https://wizardsmith2.gumroad.com/l/buwjwf)
+- [Buy on Whop](https://whop.com/mental-health-practice-ehr-and-session-notes-notion-template)
+
